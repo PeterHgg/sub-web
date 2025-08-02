@@ -232,7 +232,7 @@ export default {
           Trojan: "trojan",
           Surge3: "surge&ver=3",
         },
-        backendOptions: [{ value: "http://subc.202418.xyz/sub?" }],
+        backendOptions: [{ value: "http://subconver.202418.xyz/sub?" }],
         remoteConfig: [
           {
             label: "ACL4SSR",
